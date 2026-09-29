@@ -12,7 +12,7 @@
 |-----|----------|
 | Họ và tên | Nguyen Quang Huy |
 | Mã học viên | L3B202602461 |
-| Repo | https://github.com/qhuy180105/K4-L3B-DAY12-NguyenQuangHuy-L3B202602461-Cloud-Service-And-Deployment |
+| Repo | https://github.com/qhuy180105-boop/K4-L3B-DAY12-NguyenQuangHuy-L3B202602461-CloudServicesAndDeployment |
 
 ## Service
 
