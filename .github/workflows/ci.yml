@@ -23,10 +23,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           pip install pytest httpx
-      - name: Start Redis
-        uses: supercharge/redis-github-action@1.8.0
-        with:
-          redis-version: 7
+
       - name: Run pytest
         run: pytest tests/ --ignore=tests/test_cp5.py -v
 
